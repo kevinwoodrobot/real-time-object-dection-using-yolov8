@@ -1,11 +1,11 @@
 1. Ultralytics Repo: 
 https://github.com/ultralytics/ultralytics
 
-Important Variables
-- mAP: mean average precision, calculated at IoU (intersection of union) for thresholds from 50% to 95% in 5% increments
-- param: number of parameters in millions (M)
+- Important Variables
+    - mAP: mean average precision, calculated at IoU (intersection of union) for thresholds from 50% to 95% in 5% increments
+    - param: number of parameters in millions (M)
 
-IoU Definition: 
+- IoU Definition: 
 <img src="iou.png">
 
 Types of Models: 
